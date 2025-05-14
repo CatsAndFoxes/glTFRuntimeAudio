@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-glTFRuntimeAudio.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Lenny\Documents\GitHub\VirtualSociety\Intermediate\Build\Win64\x64\SocietyEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\Lenny\Documents\GitHub\VirtualSociety\Plugins\glTFRuntimeAudio\Intermediate\Build\Win64\x64\UnrealEditor\Development\glTFRuntimeAudio\Module.glTFRuntimeAudio.cpp.obj"
+"C:\Users\Lenny\Documents\GitHub\VirtualSociety\Plugins\glTFRuntimeAudio\Intermediate\Build\Win64\x64\UnrealEditor\Development\glTFRuntimeAudio\Default.rc2.res"
+/OUT:"C:\Users\Lenny\Documents\GitHub\VirtualSociety\Plugins\glTFRuntimeAudio\Intermediate\Build\Win64\x64\UnrealEditor\Development\glTFRuntimeAudio\UnrealEditor-glTFRuntimeAudio.lib"

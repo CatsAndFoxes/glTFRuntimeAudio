@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.glTFRuntimeAudio.cpp.obj": [
+			"glTFRuntimeAudio.init.gen.cpp.obj",
+			"glTFRuntimeAudioFunctionLibrary.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"glTFRuntimeAudio.cpp.obj",
+			"glTFRuntimeAudioFunctionLibrary.cpp.obj"
+		]
+	}
+}
